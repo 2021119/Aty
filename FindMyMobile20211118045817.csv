@@ -1,0 +1,80 @@
+﻿Personal information on the Find My Mobile service
+Phone number, Model Name, IMEI, MCC(Mobile Country Code), MNC(Mobile Network Code), CSC(Customer Software Configuration)
+,Galaxy A6+,IMEI:356472091125642,234,00,THL
+Location information requested by Find My Mobile
+Latitude,Longitude,Time Requested
+13.72791538,100.53001689,2021-11-18 04:33:09
+13.72765183,100.52991541,2021-11-18 04:37:19
+13.72784794,100.52987538,2021-11-18 04:34:02
+13.7278866,100.52997681,2021-11-18 04:27:14
+13.7277441,100.53000294,2021-11-18 04:56:59
+
+
+Retrieve calls and messages history
+Retrieved time,2021-11-18 04:34:18
+Name,Phone Number,Time Contacted, Type, Duration
+,4238029,2021-11-18 04:01:04,Incoming message,0
+,4238029,2021-11-18 02:42:43,Incoming message,0
+,,2021-11-18 02:15:22,Incoming message,0
+,,2021-11-18 02:14:03,Incoming message,0
+,,2021-11-18 02:13:56,Incoming message,0
+,0641311711,2021-11-18 02:00:06,Incoming call,24
+,,2021-11-17 19:29:36,Incoming message,0
+,,2021-11-17 19:27:51,Incoming message,0
+,,2021-11-17 19:27:50,Incoming message,0
+,,2021-11-17 19:21:21,Incoming message,0
+,,2021-11-17 18:36:34,Incoming message,0
+,,2021-11-17 18:34:30,Incoming message,0
+,,2021-11-18 02:40:54,Incoming message,0
+,,2021-11-17 18:25:29,Incoming message,0
+,,2021-11-17 17:50:51,Incoming message,0
+,,2021-11-17 14:11:14,Incoming message,0
+,,2021-11-17 10:50:56,Incoming message,0
+,,2021-11-17 10:50:27,Incoming message,0
+,,2021-11-17 10:50:21,Incoming message,0
+,0811738812,2021-11-17 10:45:04,Incoming call,35
+,0916228963,2021-11-17 08:18:45,Incoming call,121
+,,2021-11-17 07:58:05,Incoming message,0
+,,2021-11-17 06:12:32,Incoming message,0
+,,2021-11-18 02:39:33,Incoming message,0
+,,2021-11-17 06:12:29,Incoming message,0
+,,2021-11-17 06:08:53,Incoming message,0
+,+6592213898,2021-11-17 05:06:43,Missed call,0
+,0655191708,2021-11-17 04:12:59,Incoming message,0
+,0655191708,2021-11-17 04:12:20,Missed call,0
+,,2021-11-16 20:08:39,Incoming message,0
+,,2021-11-16 19:19:29,Incoming message,0
+,,2021-11-16 14:51:29,Incoming message,0
+,,2021-11-16 14:51:29,Incoming message,0
+,022637000,2021-11-16 09:58:10,Incoming call,113
+,4238029,2021-11-18 02:38:41,Incoming message,0
+,,2021-11-16 09:23:54,Incoming message,0
+,022637000,2021-11-16 02:14:35,Incoming message,0
+,022637000,2021-11-16 02:13:08,Missed call,0
+,,2021-11-16 00:48:23,Incoming message,0
+,,2021-11-15 23:15:10,Incoming message,0
+,+85222333033,2021-11-15 23:08:04,Outgoing call,0
+,,2021-11-15 16:49:10,Incoming message,0
+,,2021-11-15 16:06:54,Incoming message,0
+,,2021-11-15 16:02:33,Incoming message,0
+,,2021-11-15 15:59:05,Incoming message,0
+,,2021-11-18 02:27:22,Incoming message,0
+,,2021-11-18 02:27:21,Incoming message,0
+,,2021-11-18 02:27:18,Incoming message,0
+,,2021-11-18 02:27:17,Incoming message,0
+,,2021-11-18 02:26:30,Incoming message,0
+
+
+
+Lock information for Find My Mobile
+Contact number for returning call,Message on lock screen,Time Requested
+
+
+SIM card changed information
+Previous phone number,Current phone number, Changed on
+
+
+History of the Find My Mobile service
+Function, Date requested
+
+
